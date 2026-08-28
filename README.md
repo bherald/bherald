@@ -11,6 +11,7 @@ I am building a **Personal Life Operating System**: a local-first, human-governe
 - [Professional overview and résumé](https://wphc.us/)
 - [Explore Personal Life OS Core](https://github.com/bherald/personal-life-os-core)
 - [Read the latest release](https://github.com/bherald/personal-life-os-core/releases/tag/v0.1.1)
+- [Watch: From Apple II to AI Agents — 5 Lessons That Still Matter](https://youtu.be/JAS4IoRm4sw)
 
 ## Public proof
 
