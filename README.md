@@ -6,11 +6,12 @@ I have spent more than 40 years building, testing, managing, and improving softw
 
 I am building a **Personal Life Operating System**: a local-first, human-governed environment for AI agents, retrieval, knowledge graphs, automation, and personal information. The private system remains private. The public **Personal Life OS Core** shares a sanitized, MIT-licensed foundation that others can inspect and reuse.
 
-I want the public work to be useful to someone who has not seen my private system. These three projects give you concrete methods and examples to inspect:
+I want the public work to be useful to someone who has not seen my private system. These four projects give you concrete methods and examples to inspect:
 
 - **[PLOS v2.1](https://github.com/bherald/personal-life-os-core)** brings documents, source-backed research, workflows and review into one application. Start with the [research walkthrough](https://github.com/bherald/personal-life-os-core/blob/main/docs/research-workbench.md) and the fictional nightly examples. Installation and AI routes need your own configuration.
 - **[Photo Knowledge](https://github.com/bherald/photo-knowledge)** shows how reviewed names, face regions, captions and keywords can travel with a picture through standard metadata. Try the small XMP sidecar generator or inspect the embedded JPEG examples. The examples use fictional labels; the tool does not identify people.
 - **[Cyber Review Workbench](https://github.com/bherald/cyber-review-workbench)** runs a small local security-check demonstration, saves action receipts and compares the result with a clean control. Python's standard library is enough. A passing synthetic check leaves the human review open; it does not certify a system.
+- **[VISOR](https://github.com/bherald/AI-CLI-MANAGER-VISOR)** supervises independent Codex and Claude Code terminals, with exact-session resume, window controls and messages between sessions. It is a beta for Windows, Linux/X11 and macOS. Mac builds pass hosted checks on Apple silicon and Intel; interactive Mac desktop testing is still unverified.
 
 ## Start here
 
